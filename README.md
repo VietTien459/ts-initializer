@@ -1,2 +1,2 @@
 # ts-initializer
-Base project files for a TypeScript project
+Base files for a TypeScript project
